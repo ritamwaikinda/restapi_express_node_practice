@@ -1,0 +1,11 @@
+{
+  "name": "restapi_express_node_practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ritamwaikinda/restapi_express_node_practice.git",
+  "author": "Rita Mwaikinda <srmwaikinda@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
